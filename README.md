@@ -1,7 +1,8 @@
 ZTuo 开源数字货币交易系统
 =====================================
 
-    ZTuo是一个免费的、开源的数字货币交易系统，她使用目前最流行的Java框架和相关技术开发而成。
+
+ZTuo是一个免费的、开源的数字货币交易系统，她使用目前最流行的Java框架和相关技术开发而成。
 
 
 ## 愿景
@@ -72,7 +73,7 @@ ZTuo 开源数字货币交易系统
     为方便大家交流和学习，请各位小伙伴加入QQ交流群：
 	*区块链交易所技术知识交流群【QQ群：735446452】
 ### 开源许可协议
-    MIT
+    Apache
 
 ---
 
@@ -80,19 +81,19 @@ ZTuo 开源数字货币交易系统
 
 # 整体架构
 
-#### ![](https://github.com/xunibidev/ZTuoExchange_framework/blob/master/Image/143836_eac248e5_2182501.png)
+#### ![Topology-Image](https://github.com/xunibidev/ZTuoExchange_framework/blob/master/Topology-Image/143836_eac248e5_2182501.png)
 
 # 逻辑架构
 
-#### ![](https://github.com/xunibidev/ZTuoExchange_framework/blob/master/Image/143856_66257325_2182501.png)
+#### ![Topology-Image](https://github.com/xunibidev/ZTuoExchange_framework/blob/master/Topology-Image/143856_66257325_2182501.png)
 
 # 部署架构
 
-#### ![](https://github.com/xunibidev/ZTuoExchange_framework/blob/master/Image/141710_07923003_2182501.png)
+#### ![Topology-Image](https://github.com/xunibidev/ZTuoExchange_framework/blob/master/Topology-Image/141710_07923003_2182501.png)
 
 # 依赖关系
 
-#### ![](https://github.com/xunibidev/ZTuoExchange_framework/blob/master/Image/194510_89803a9d_2182501.png)
+#### ![Topology-Image](https://github.com/xunibidev/ZTuoExchange_framework/blob/master/Topology-Image/194510_89803a9d_2182501.png)
 
 ##  模块介绍
 
@@ -255,7 +256,7 @@ water.proof.app.**
 
 ### 提问和建议
 - 使用Issuse，我们会及时跟进解答。
-- 加入交流群：区块链交易所技术知识交流群【QQ群：735446452】
+- 加入交流群：区块链交易所技术知识交流群【QQ群:735446452】
 
 ### 更新说明
 - 20180114 增加系统架构图，增加重点业务介绍
