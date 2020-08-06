@@ -51,13 +51,13 @@ ZTuo 开源数字货币交易系统
 - 同时提供IOS和Android版本。
 
 ### 项目资源
-- [ztuo_framework](https://github.com/xunibidev/ZTuoExchange_framework)
+- [ZTuoExchange_framework](https://github.com/xunibidev/ZTuoExchange_framework)
 
-- [ztuo_wallet_rpc](https://github.com/xunibidev/ZTuoExchange_wallet_rpc)
+- [ZTuoExchange_wallet_rpc](https://github.com/xunibidev/ZTuoExchange_wallet_rpc)
 
-- [ztuo_web_web](https://github.com/xunibidev/ZTuoExchange_web)
+- [ZTuoExchange_web](https://github.com/xunibidev/ZTuoExchange_web)
 
-- [ztuo_web_admin](https://github.com/xunibidev/ZTuoExchange_admin)
+- [ZTuoExchange_admin](https://github.com/xunibidev/ZTuoExchange_admin)
 
 - [ZTuoExchange_操作手册](https://github.com/xunibidev/ZTuoExchange_caozuoshouce)
 
@@ -76,10 +76,23 @@ ZTuo 开源数字货币交易系统
 
 ---
 
+
+
 # 整体架构
 
+#### ![](https://github.com/xunibidev/ZTuoExchange_framework/blob/master/Image/143836_eac248e5_2182501.png)
 
-#### ![](https://images.gitee.com/uploads/images/2019/0824/101549_9dea9664_1725492.png)
+# 逻辑架构
+
+#### ![](https://github.com/xunibidev/ZTuoExchange_framework/blob/master/Image/143856_66257325_2182501.png)
+
+# 部署架构
+
+#### ![](https://github.com/xunibidev/ZTuoExchange_framework/blob/master/Image/141710_07923003_2182501.png)
+
+# 依赖关系
+
+#### ![](https://github.com/xunibidev/ZTuoExchange_framework/blob/master/Image/194510_89803a9d_2182501.png)
 
 ##  模块介绍
 
