@@ -1,18 +1,19 @@
 ZTuo 开源数字货币交易系统
 =====================================
-
-
 ZTuo是一个免费的、开源的数字货币交易系统，她使用目前最流行的Java框架和相关技术开发而成。
+## 捐赠：
+#### 您的捐赠是我们开源最大的动力
+- BTC/USDT(比特币/USDT)：1Dwwqhw9pV9iSSQwuJc8nAygda7XfahaoW
+- ETH/USDT(以太坊/USDT)：0x4f1ea0f10aa99f608f31f70b4d3119f6928693ed
+- LTC(莱特币)：LXr4TMtDhCSpdAo98vg2sbvX3UXDVPQvMa
 
 
 ## 愿景
-
     我们的使命是用Java开发世界上最好的、高性能的、安全的、开源的（重点）数字货币交易系统。（请忽略我们的牛逼，因为牛逼吹得多了，可能慢慢就真的牛逼了）
 
     我们希望通过开源社区的力量能相互交流，共同改进。
 
     非常感谢您的帮助（issue  or money。好吧，more money！），请随时提交请求或公开问题。
-
 
 ## 警告 （自行脑补FBI warning 画面）
 
@@ -39,7 +40,6 @@ ZTuo是一个免费的、开源的数字货币交易系统，她使用目前最�
 - linux知识（CentOS、Ubuntu等等）
 - 安全知识
 
-
 ### 主要技术
 - 后端：Spring、SpringMVC、SpringData、SpringCloud、SpringBoot
 
@@ -62,8 +62,6 @@ ZTuo是一个免费的、开源的数字货币交易系统，她使用目前最�
 
 - [ZTuoExchange_操作手册](https://github.com/xunibidev/ZTuoExchange_caozuoshouce)
 
-
-
 ### 测试环境
 - 测试环境仅供学习参考！！！请各位学习的小伙伴合理运用。
 
@@ -76,8 +74,6 @@ ZTuo是一个免费的、开源的数字货币交易系统，她使用目前最�
     Apache
 
 ---
-
-
 
 # 整体架构
 
@@ -153,8 +149,20 @@ ZTuo是一个免费的、开源的数字货币交易系统，她使用目前最�
     market模块主要都是数据库操作，将用户变化信息持久化到数据库中。主要难点在于和前端交互socket推送，socket推送采用两种方式，web端socket采用SpringSocket，移动端采用Netty推送,其中netty推送通过定时任务处理。
 
 ## 环境搭建
+- Centos 6.8
+- MySQL 5.5.16
+- Redis-x64-3.2.100
+- Mongodb 3.6.13
+- kafka_2.11-2.2.1
+- nginx-1.16.0
+- JRE 8u241
+- JDK 1.8
+- Vue
+- Zookeeper
 
-#### CentOS环境搭建(请加QQ群)
+## 生产环境建议配置
+#### ![Topology-Image](https://github.com/xunibidev/ZTuoExchange_framework/blob/master/Topology-Image/204436_dfff09a6_2182501.png)
+
 
 ## 服务部署准备
 
@@ -257,8 +265,9 @@ water.proof.app.**
 ### 提问和建议
 - 使用Issuse，我们会及时跟进解答。
 - 加入交流群：区块链交易所技术知识交流群【QQ群:735446452】
-
+- E-mail:xunibidev@gmail.com
 ### 更新说明
+- 20200806 优化代码
 - 20180114 增加系统架构图，增加重点业务介绍
 - 20181112 发布ZTuoExchange_操作手册
 - 20181112 开源ZTuoExchange_wallet代码
