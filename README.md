@@ -1,12 +1,13 @@
 ZTuo 开源数字货币交易系统
 =====================================
-ZTuo是一个免费的、开源的数字货币交易系统，她使用目前最流行的Java框架和相关技术开发而成。
-## 捐赠：
+- [English](https://github.com/xunibidev/ZTuoExchange_framework/blob/master/README-EN.md)
+# 捐赠：
 #### 您的捐赠是我们开源最大的动力
 - BTC/USDT(比特币/USDT)：1Dwwqhw9pV9iSSQwuJc8nAygda7XfahaoW
 - ETH/USDT(以太坊/USDT)：0x4f1ea0f10aa99f608f31f70b4d3119f6928693ed
 - LTC(莱特币)：LXr4TMtDhCSpdAo98vg2sbvX3UXDVPQvMa
 
+#### ZTuo是一个免费的、开源的数字货币交易系统，她使用目前最流行的Java框架和相关技术开发而成。
 
 ## 愿景
     我们的使命是用Java开发世界上最好的、高性能的、安全的、开源的（重点）数字货币交易系统。（请忽略我们的牛逼，因为牛逼吹得多了，可能慢慢就真的牛逼了）
@@ -15,7 +16,7 @@ ZTuo是一个免费的、开源的数字货币交易系统，她使用目前最�
 
     非常感谢您的帮助（issue  or money。好吧，more money！），请随时提交请求或公开问题。
 
-## 警告 （自行脑补FBI warning 画面）
+## 警告(自行脑补FBI warning 画面)
 
 1. 运营一家交易所是非常不容易的.
 
@@ -28,9 +29,7 @@ ZTuo是一个免费的、开源的数字货币交易系统，她使用目前最�
 3. 法律风险
 
 - 法律风险第一条：不要触犯中华人民共和国的法律条例。
-
 - 技术无罪，请在法律范围内使用Ztuo框架。
-
 - 如果你想使用Ztuo作为商业应用，最好请个律师，确保你的商业应用在法律允许的范围内。一切用于商业化项目所带来的法律和经济问题，ztuo团队概不负责。
 
 4. 你需要知道的基本知识
@@ -41,14 +40,11 @@ ZTuo是一个免费的、开源的数字货币交易系统，她使用目前最�
 - 安全知识
 
 ### 主要技术
+
 - 后端：Spring、SpringMVC、SpringData、SpringCloud、SpringBoot
-
 - 数据库：Mysql、Mongodb
-
 - 其他：redis、kafka、阿里云OSS、腾讯防水校验、环信推送
-
 - 前端：Vue、iView、less
-
 - 同时提供IOS和Android版本。
 
 ### 项目资源
