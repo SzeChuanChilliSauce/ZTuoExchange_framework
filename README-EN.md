@@ -51,11 +51,15 @@ ZTuo Open source digital currency trading system
 ### Project resources
 - [ZTuoExchange_framework](https://github.com/xunibidev/ZTuoExchange_framework)
 
-- [ZTuoExchange_wallet_rpc](https://github.com/xunibidev/ZTuoExchange_wallet_rpc)
-
 - [ZTuoExchange_web](https://github.com/xunibidev/ZTuoExchange_web)
 
 - [ZTuoExchange_admin](https://github.com/xunibidev/ZTuoExchange_admin)
+
+- [ZTuoExchange_wallet_rpc](https://github.com/xunibidev/ZTuoExchange_wallet_rpc)
+
+- [ZTuoExchange_android](https://github.com/xunibidev/ZTuoExchange_android)
+
+- [ZTuoExchange_ios](https://github.com/xunibidev/ZTuoExchange_ios)
 
 - [ZTuoExchange_Operation Manual](https://github.com/xunibidev/ZTuoExchange_caozuoshouce)
 
@@ -223,11 +227,6 @@ water.proof.app.**
 
 ## Service start
  1. Maven build packaging service
-
-    ```
-    cd /project path/ztuo_vip_framework
-    mvn clean package
-    ```
 
  2. Upload the XX.jar in the target folder of each module to your server
 

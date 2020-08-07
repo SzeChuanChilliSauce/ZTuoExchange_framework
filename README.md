@@ -50,11 +50,15 @@ ZTuo 开源数字货币交易系统
 ### 项目资源
 - [ZTuoExchange_framework](https://github.com/xunibidev/ZTuoExchange_framework)
 
-- [ZTuoExchange_wallet_rpc](https://github.com/xunibidev/ZTuoExchange_wallet_rpc)
-
 - [ZTuoExchange_web](https://github.com/xunibidev/ZTuoExchange_web)
 
 - [ZTuoExchange_admin](https://github.com/xunibidev/ZTuoExchange_admin)
+
+- [ZTuoExchange_wallet_rpc](https://github.com/xunibidev/ZTuoExchange_wallet_rpc)
+
+- [ZTuoExchange_android](https://github.com/xunibidev/ZTuoExchange_android)
+
+- [ZTuoExchange_ios](https://github.com/xunibidev/ZTuoExchange_ios)
 
 - [ZTuoExchange_操作手册](https://github.com/xunibidev/ZTuoExchange_caozuoshouce)
 
@@ -228,11 +232,6 @@ water.proof.app.**
 
 ### 服务启动
  1. maven构建打包服务
-
-    ```
-    cd /项目路径/ztuo_vip_framework
-    mvn clean package
-    ```
 
  2. 将各个模块target文件夹下的XX.jar上传到自己的服务器
 
