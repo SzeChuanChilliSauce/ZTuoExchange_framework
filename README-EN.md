@@ -1,6 +1,7 @@
 ZTuo Open source digital currency trading system
 =====================================
-- [简体中文](https://github.com/xunibidev/ZTuoExchange_framework/blob/master/README.md)
+- ## [简体中文](README.md)
+---
 
 # Donate:
 #### Your donation is our biggest motivation for open source
@@ -257,8 +258,4 @@ water.proof.app.**
 - Join the exchange group: Blockchain exchange technology knowledge exchange group [QQ group: 735446452]
 - E-mail: xunibidev@gmail.com
 ### Release Notes
-- 20200806 optimized code
-- 20180114 Added system architecture diagram and added key business introduction
-- 20181112 released ZTuoExchange_Operation Manual
-- 20181112 open source ZTuoExchange_wallet code
-- 20181106 Submission of missing modules in the project
+ * [Update details](CHANGELOG.md)

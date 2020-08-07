@@ -1,6 +1,8 @@
 ZTuo 开源数字货币交易系统
 =====================================
-- [English](https://github.com/xunibidev/ZTuoExchange_framework/blob/master/README-EN.md)
+- ## [English](README-EN.md)
+---
+
 # 捐赠：
 #### 您的捐赠是我们开源最大的动力
 - BTC/USDT(比特币/USDT)：1Dwwqhw9pV9iSSQwuJc8nAygda7XfahaoW
@@ -262,8 +264,4 @@ water.proof.app.**
 - 加入交流群：区块链交易所技术知识交流群【QQ群:735446452】
 - E-mail:xunibidev@gmail.com
 ### 更新说明
-- 20200806 优化代码
-- 20180114 增加系统架构图，增加重点业务介绍
-- 20181112 发布ZTuoExchange_操作手册
-- 20181112 开源ZTuoExchange_wallet代码
-- 20181106 提交项目中缺少的模块
+ * [更新详情](CHANGELOG.md)
